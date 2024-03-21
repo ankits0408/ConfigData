@@ -1,10 +1,10 @@
 #luck-word.yaml
 ---
 spring:
-profiles:
+profiles: east
 lucky-word: Irish
 
 ---
 spring:
-profiles:
+profiles: west
 lucky-word: Serendipity
