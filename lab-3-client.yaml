@@ -1,0 +1,10 @@
+#luck-word.yaml
+---
+spring:
+profiles:
+lucky-word: Irish
+
+---
+spring:
+profiles:
+lucky-word: Serendipity
